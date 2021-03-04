@@ -4,7 +4,7 @@ title: Outsourcing Our Minds
 subheading: What we should be cautious about when we give our tasks to machines
 author: Aman
 categories: Future
-tags: Future, Practice, Week_1
+tags: Future Practice Week_1
 sidebar: []
 ---
 
