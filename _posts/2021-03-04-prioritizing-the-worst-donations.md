@@ -4,7 +4,7 @@ title: Prioritizing Shifting the Worst Donations
 subheading: Shifting the worst might be more worthwhile than finding the best
 author: Aman
 categories: EA
-tags: EA
+tags: Effective Altruism, Writing Practice, Week 1
 sidebar: []
 ---
 
