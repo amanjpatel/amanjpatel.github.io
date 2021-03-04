@@ -1,3 +1,13 @@
+---
+layout: post
+title: Prioritizing Shifting the Worst Donations
+subheading: Shifting the worst might be more worthwhile than finding the best
+author: Aman
+categories: EA
+tags: EA
+sidebar: []
+---
+
 Many people in the effective altruism community focus their time on researching the better places to donate money. This is a tremendously important task: there is a very large amount of money donated to charitable causes each year, but much of it goes to charities with very little real impact.
 
 There's a fine line, though, between trying to find better places to donate money, and searching for the best place. We must be very wary of this line, so that we don't embark on fruitless endeavors. 
