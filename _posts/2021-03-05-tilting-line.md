@@ -22,4 +22,3 @@ Our goal is to tilt this line upward, wherever it is right now. We're not trying
 Each time we add a positive contribution, the line tilts upwards, even if imperceptibly so. All contributions are meaningful, even if they're not all of the same magnitude. Some actions might have downstream effects that inspire others or catalyze more change. Some actions might instead create a short-lived bump in joy. On average, it's simpler to average these out, and think of each action as a change in the slope of our line. 
 
 If everyone increases the slope of our line by just a little, we can achieve very rapid change, and we'll be on our way to a much better place in no time. 
-![image](https://user-images.githubusercontent.com/60860107/110140312-f5ae9c80-7da1-11eb-8de7-e8e063ead813.png)
