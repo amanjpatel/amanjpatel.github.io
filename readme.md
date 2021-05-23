@@ -21,7 +21,6 @@ Blue sequoia
 Axioms of none
 Chronic cognition
 Dissonant harmonies
-Magnetic Vibrations
 Chasing entropy
 Noctilucent thoughts
 Ontopause
